@@ -1,0 +1,14 @@
+Package: minizdog
+Type: Package
+Title: Zdog Builder
+Version: 0.1.0
+Author: mikefc
+Maintainer: mikefc <mikefc@coolbutuseless.com>
+Description: Zdog builder.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+    R6,
+    glue
+RoxygenNote: 6.1.1
